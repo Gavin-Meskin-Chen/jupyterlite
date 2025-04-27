@@ -12,6 +12,9 @@
   },
   "license": "BSD-3-Clause",
   "author": "JupyterLite Contributors",
+  "engines": {
+    "node": "20.x"
+  },
   "workspaces": {
     "packages": [
       "app",
